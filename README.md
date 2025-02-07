@@ -1,2 +1,2 @@
 # favorite_leetcodes
-leetcodes that had cool logic spins and underlying algorithms..
+leetcodes that made me think and had cool underlying algorithms.
